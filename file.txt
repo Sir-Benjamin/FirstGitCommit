@@ -1,1 +1,10 @@
 This file is a trial for using the git version controller
+I used git init to initialise the folder as a git repository
+>git init
+>git status was used to looksie inside the git files being held = none
+>git add file.txt 
+>git status shows new file file.txt
+>git commit -m "comment"
+>git log shows user and email of github repo and what was commited with comment
+And now I am trying to change this file 
+
